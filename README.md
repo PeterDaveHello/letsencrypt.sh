@@ -16,6 +16,17 @@ Current features:
 
 Please keep in mind that this software and even the acme-protocol are relatively young and may still have some unresolved issues. Feel free to report any issues you find with this script or contribute by submitting a pull request.
 
+## Table of Contents
+
+- [Getting started](#getting-started)
+- [Config](#config)
+- [Usage:](#usage)
+- [Donate](#donate)
+  - [PayPal](#paypal)
+  - [BitCoin](#bitcoin)
+  - [Server](#server)
+  - [Other ways](#other-ways)
+
 ## Getting started
 
 For getting started I recommend taking a look at [docs/domains_txt.md](docs/domains_txt.md), [docs/wellknown.md](docs/wellknown.md) and the [Usage](#usage) section on this page (you'll probably only need the `-c` option).
